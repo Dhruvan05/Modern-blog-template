@@ -2,13 +2,13 @@
 
 A sleek, responsive, and minimalist blog website template built with **HTML** and **CSS**. This template is ideal for personal blogging, writing tech posts, or showcasing content, with images dynamically loaded via external APIs.
 
----
+
 
 ## 📸 Preview
 
 No static assets! All blog post images are dynamically pulled via an **image API** like [Unsplash](https://unsplash.com/) using direct URLs.
 
----
+
 
 ## 📁 Project Structure
 
