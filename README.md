@@ -7,6 +7,7 @@ A sleek, responsive, and minimalist blog website template built with **HTML** an
 ## 📸 Preview
 
 No static assets! All blog post images are dynamically pulled via an **image API** like [Unsplash](https://unsplash.com/) using direct URLs.
+![preview](https://github.com/user-attachments/assets/82945dba-af78-4148-b5d4-93688c3ec557)
 
 
 
@@ -30,7 +31,7 @@ Modern-blog-template/
 - 🧩 Modular sections: header, post grid, footer
 - ✨ CSS transitions for smooth user experience
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +39,7 @@ Modern-blog-template/
 - **CSS3** (Flexbox + Grid + Variables)
 - *(No JavaScript required)*
 
----
+
 
 ## ⚙️ How to Use
 
