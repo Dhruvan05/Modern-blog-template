@@ -14,11 +14,11 @@ No static assets! All blog post images are dynamically pulled via an **image API
 ## 📁 Project Structure
 
 
-Modern-blog-template/
-│
-├── blog.html # Main HTML file
-├── blog.css # Styling (using modern CSS variables & flexbox/grid)
-└── README.md # You're here!
+school-management-system/
+|
+├── blog.html                       
+├── blog.css                      
+└── README.md                         
 
 
 ---
